@@ -88,7 +88,7 @@ $ git pull
 Everyone should also join the [Piazza](https://piazza.com/) group for the course. The Piazza forum is a place for you to discuss lectures, assignments, projects, exams etc. with other students. You should check it often and try to answer your classmates' questions. This kind of collaborative forum is used at most US universities to improve student communication.
 
 Please use the following invitation link to the Piazza course page: 
-[http://piazza.com/keio.ac.jp/fall2018/keio2018aia](piazza.com/keio.ac.jp/fall2018/keio2018aia).
+[http://piazza.com/keio.ac.jp/fall2018/keio2018aia](http://piazza.com/keio.ac.jp/fall2018/keio2018aia).
 
 For live discussion, as well as announcements by the professor, there is a [Slack](https://slack.com/) channel for the course.
 
